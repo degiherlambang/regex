@@ -8,10 +8,7 @@ package com.nusaregex.model.DAO;
 import com.nusaregex.model.ModelAdmin;
 import java.util.List;
 
-/**
- *
- * @author ANDI DWI SAPUTRO
- */
+
 public interface InterfaceAdminDAO {
     public void insert(ModelAdmin admin);
     public void update(ModelAdmin admin);
